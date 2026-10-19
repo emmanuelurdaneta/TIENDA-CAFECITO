@@ -1,4 +1,4 @@
-# Tostado Café — Pre-entrega
+# Tostado Café Pre-entrega
 
 E-commerce de café de especialidad hecho con React + Vite.
 
