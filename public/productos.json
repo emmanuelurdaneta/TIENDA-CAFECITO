@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Café Colombia Huila",
+    "categoria": "Granos",
+    "precio": 9800,
+    "stock": 12,
+    "imagen": "https://picsum.photos/seed/cafe-colombia/600/400",
+    "descripcion": "Tueste medio con notas a caramelo, cítricos y chocolate con leche. Bolsa de 250 g."
+  },
+  {
+    "id": 2,
+    "nombre": "Café Etiopía Yirgacheffe",
+    "categoria": "Granos",
+    "precio": 11500,
+    "stock": 8,
+    "imagen": "https://picsum.photos/seed/cafe-etiopia/600/400",
+    "descripcion": "Tueste claro, floral y afrutado, con notas a jazmín y frutos rojos. Bolsa de 250 g."
+  },
+  {
+    "id": 3,
+    "nombre": "Café Brasil Santos",
+    "categoria": "Granos",
+    "precio": 8200,
+    "stock": 20,
+    "imagen": "https://picsum.photos/seed/cafe-brasil/600/400",
+    "descripcion": "Tueste medio-oscuro, cuerpo intenso y notas a nuez y cacao. Ideal para espresso. Bolsa de 250 g."
+  },
+  {
+    "id": 4,
+    "nombre": "Prensa francesa 600 ml",
+    "categoria": "Accesorios",
+    "precio": 24900,
+    "stock": 5,
+    "imagen": "https://picsum.photos/seed/prensa-francesa/600/400",
+    "descripcion": "Prensa francesa de vidrio borosilicato y acero inoxidable para 3 tazas."
+  },
+  {
+    "id": 5,
+    "nombre": "Molinillo manual de cerámica",
+    "categoria": "Accesorios",
+    "precio": 32500,
+    "stock": 4,
+    "imagen": "https://picsum.photos/seed/molinillo/600/400",
+    "descripcion": "Molinillo con muelas cónicas de cerámica y molienda regulable."
+  },
+  {
+    "id": 6,
+    "nombre": "Taza esmaltada artesanal",
+    "categoria": "Accesorios",
+    "precio": 7600,
+    "stock": 15,
+    "imagen": "https://picsum.photos/seed/taza-esmaltada/600/400",
+    "descripcion": "Taza de cerámica esmaltada a mano, capacidad 300 ml."
+  }
+]
